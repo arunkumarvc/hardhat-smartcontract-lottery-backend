@@ -1,0 +1,16 @@
+node_modules
+.env
+.encryptedKey.json
+coverage
+coverage.json
+typechain
+typechain-types
+gas-reporter.txt
+.DS_Store
+test/.DS_Store
+
+# Hardhat files
+cache
+artifacts
+deployments
+
